@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jengeese
+- 👀 I’m interested in PHP Larvel Python Pandas Numpy Selenium
+- 🌱 I’m currently learning everything 
+- 💞️ I’m looking to collaborate on learning and freelance
+- 📫 Reach me by DM and/or mail, cengizvardar10@hotmail.com
